@@ -22,3 +22,9 @@
   
 #Integration of Front-end and Machine Learning Model
   - FLASK web framework
+
+#Procedure to RUN
+  - Set dataset location properly.
+  - Install all required libraries
+  - install chrome webdriver for selenium
+  - Run on cmd : "python app.py"
